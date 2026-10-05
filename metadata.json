@@ -1,0 +1,6 @@
+{
+  "name": "BhoomiSwasthya - Soil Testing & Report Portal",
+  "description": "Modern Soil Testing Appointment Booking & Digital Soil Health Card Portal for farmers, testing laboratories, and agricultural administrators.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
